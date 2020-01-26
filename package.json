@@ -1,7 +1,7 @@
 {
   "name": "Blockchain-Prototype",
   "version": "1.0.0",
-  "description": "Testing Blockchain Standards123",
+  "description": "Testing Blockchain Standards",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
